@@ -1,5 +1,5 @@
 # QA-Challange
-Public repository destined to the test stage of the selective process to the vacancy of Quality Assurance Jr.
+Public repository destined to the test stage of the selective process to the Quality Assurance Jr. vacancy.
 
 
 Consider the application notes below:
@@ -27,3 +27,5 @@ This project contains:
 > A field called VALUE for data entry
 > A Clear button
 > Error message box programed
+
+--
